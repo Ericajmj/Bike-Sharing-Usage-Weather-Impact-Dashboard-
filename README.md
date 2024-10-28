@@ -24,3 +24,17 @@ Analyze bike-sharing data to understand usage patterns, optimize availability, a
 
 ![image](https://github.com/user-attachments/assets/766149dc-4afb-4035-a8f3-e72a32aad87d)
 
+
+## Process
+
+Processed and cleaned 173,978 rows of bike-sharing data using Python (pandas), including renaming columns, adjusting data types, and normalizing humidity values for consistency. Created an interactive Tableau dashboard with 5 visualizations to explore bike usage in relation to weather conditions.
+
+## Project Insight
+
+The analysis revealed that bike usage peaks under certain weather conditions (clear skies and mild temperatures), while rain and extreme weather significantly reduce demand. Seasonal trends highlighted higher activity in summer months, providing actionable insights for inventory and availability planning.
+
+## Final Conclusion
+ 
+This project identified key factors influencing bike-sharing demand, enabling data-driven recommendations for optimizing bike availability during peak conditions and adjusting for seasonal patterns, potentially enhancing customer satisfaction and operational efficiency.
+
+
