@@ -33,10 +33,10 @@ Processed and cleaned 173,978 rows of bike-sharing data using Python (pandas), i
 
 The analysis revealed that bike usage peaks under certain weather conditions (clear skies and mild temperatures), while rain and extreme weather significantly reduce demand. Seasonal trends highlighted higher activity in summer months, providing actionable insights for inventory and availability planning.
 
-Source> @mo-chen
 
 ## Final Conclusion
  
 This project identified key factors influencing bike-sharing demand, enabling data-driven recommendations for optimizing bike availability during peak conditions and adjusting for seasonal patterns, potentially enhancing customer satisfaction and operational efficiency.
 
+Source> @mo-chen
 
